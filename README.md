@@ -5,6 +5,9 @@
 * styles are added by style.css .
 * javascript logic is implemented to play and restart the game and it also show the winner.
 * just get import the code and play .
-![mountains-background-game-vector](https://github.com/user-attachments/assets/1fa08f41-56d3-47c9-be4f-0dc53cd3a720)
+![Screenshot 2024-11-28 225753](https://github.com/user-attachments/assets/1d80d825-930c-46f6-bf08-c99e0d83932a)
+![Screenshot 2024-11-28 225815](https://github.com/user-attachments/assets/94a9d9a3-1838-4c94-a91f-9c502a0507cf)
+
+
 
 
